@@ -21,7 +21,7 @@ CatBot - это бот для Telegram созданный сделать Ваш�
 
 .. code-block:: python
 
-    API_KEY="API ключ, который вы получили от BotFather"
+    API_KEY = "API ключ, который вы получили от BotFather"
 
     USER_EMOJI = [':smiley_cat:', ':smiling_imp:', ':panda_face:', ':dog:']
 
